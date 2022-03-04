@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sigma Integration", "Sigma Integration\Sigma Integration.csproj", "{1497E90D-F7BA-4F6E-AF41-B80C53A60572}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1497E90D-F7BA-4F6E-AF41-B80C53A60572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1497E90D-F7BA-4F6E-AF41-B80C53A60572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1497E90D-F7BA-4F6E-AF41-B80C53A60572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1497E90D-F7BA-4F6E-AF41-B80C53A60572}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1A398DC-53AE-498B-9C9A-9F315E3D47D2}
+	EndGlobalSection
+EndGlobal
